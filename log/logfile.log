@@ -1,0 +1,168 @@
+2025-07-08 15:12:29,857 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-08 15:12:35,101 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-08 15:12:45,472 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-08 15:12:45,472 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-08 15:12:52,143 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-08 15:12:52,143 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-08 15:13:23,570 :INFO : verify_save_tooltip_message : An error occurred while verifying save tooltip message: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff69cd46f95+76917]
+	GetHandleVerifier [0x0x7ff69cd46ff0+77008]
+	(No symbol) [0x0x7ff69caf9dea]
+	(No symbol) [0x0x7ff69cb50256]
+	(No symbol) [0x0x7ff69cb5050c]
+	(No symbol) [0x0x7ff69cba3887]
+	(No symbol) [0x0x7ff69cb784af]
+	(No symbol) [0x0x7ff69cba065c]
+	(No symbol) [0x0x7ff69cb78243]
+	(No symbol) [0x0x7ff69cb41431]
+	(No symbol) [0x0x7ff69cb421c3]
+	GetHandleVerifier [0x0x7ff69d01d2cd+3051437]
+	GetHandleVerifier [0x0x7ff69d017923+3028483]
+	GetHandleVerifier [0x0x7ff69d0358bd+3151261]
+	GetHandleVerifier [0x0x7ff69cd6185e+185662]
+	GetHandleVerifier [0x0x7ff69cd6971f+218111]
+	GetHandleVerifier [0x0x7ff69cd4fb14+112628]
+	GetHandleVerifier [0x0x7ff69cd4fcc9+113065]
+	GetHandleVerifier [0x0x7ff69cd36c98+10616]
+	BaseThreadInitThunk [0x0x7ff995a87374+20]
+	RtlUserThreadStart [0x0x7ff9979fcc91+33]
+
+2025-07-08 15:21:09,737 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-08 15:21:14,878 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-08 15:21:24,786 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-08 15:21:24,786 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-08 15:21:31,754 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-08 15:21:31,754 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-08 15:22:02,993 :INFO : verify_save_tooltip_message : An error occurred while verifying save tooltip message: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff69cd46f95+76917]
+	GetHandleVerifier [0x0x7ff69cd46ff0+77008]
+	(No symbol) [0x0x7ff69caf9dea]
+	(No symbol) [0x0x7ff69cb50256]
+	(No symbol) [0x0x7ff69cb5050c]
+	(No symbol) [0x0x7ff69cba3887]
+	(No symbol) [0x0x7ff69cb784af]
+	(No symbol) [0x0x7ff69cba065c]
+	(No symbol) [0x0x7ff69cb78243]
+	(No symbol) [0x0x7ff69cb41431]
+	(No symbol) [0x0x7ff69cb421c3]
+	GetHandleVerifier [0x0x7ff69d01d2cd+3051437]
+	GetHandleVerifier [0x0x7ff69d017923+3028483]
+	GetHandleVerifier [0x0x7ff69d0358bd+3151261]
+	GetHandleVerifier [0x0x7ff69cd6185e+185662]
+	GetHandleVerifier [0x0x7ff69cd6971f+218111]
+	GetHandleVerifier [0x0x7ff69cd4fb14+112628]
+	GetHandleVerifier [0x0x7ff69cd4fcc9+113065]
+	GetHandleVerifier [0x0x7ff69cd36c98+10616]
+	BaseThreadInitThunk [0x0x7ff995a87374+20]
+	RtlUserThreadStart [0x0x7ff9979fcc91+33]
+
+2025-07-08 15:25:08,516 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-08 15:25:15,380 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-08 15:25:46,210 :INFO : verify_save_tooltip_message : An error occurred while verifying save tooltip message: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff69cd46f95+76917]
+	GetHandleVerifier [0x0x7ff69cd46ff0+77008]
+	(No symbol) [0x0x7ff69caf9dea]
+	(No symbol) [0x0x7ff69cb50256]
+	(No symbol) [0x0x7ff69cb5050c]
+	(No symbol) [0x0x7ff69cba3887]
+	(No symbol) [0x0x7ff69cb784af]
+	(No symbol) [0x0x7ff69cba065c]
+	(No symbol) [0x0x7ff69cb78243]
+	(No symbol) [0x0x7ff69cb41431]
+	(No symbol) [0x0x7ff69cb421c3]
+	GetHandleVerifier [0x0x7ff69d01d2cd+3051437]
+	GetHandleVerifier [0x0x7ff69d017923+3028483]
+	GetHandleVerifier [0x0x7ff69d0358bd+3151261]
+	GetHandleVerifier [0x0x7ff69cd6185e+185662]
+	GetHandleVerifier [0x0x7ff69cd6971f+218111]
+	GetHandleVerifier [0x0x7ff69cd4fb14+112628]
+	GetHandleVerifier [0x0x7ff69cd4fcc9+113065]
+	GetHandleVerifier [0x0x7ff69cd36c98+10616]
+	BaseThreadInitThunk [0x0x7ff995a87374+20]
+	RtlUserThreadStart [0x0x7ff9979fcc91+33]
+
+2025-07-08 15:28:20,893 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-08 15:28:27,587 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-08 15:28:58,080 :INFO : verify_save_tooltip_message : An error occurred while verifying save tooltip message: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff69cd46f95+76917]
+	GetHandleVerifier [0x0x7ff69cd46ff0+77008]
+	(No symbol) [0x0x7ff69caf9dea]
+	(No symbol) [0x0x7ff69cb50256]
+	(No symbol) [0x0x7ff69cb5050c]
+	(No symbol) [0x0x7ff69cba3887]
+	(No symbol) [0x0x7ff69cb784af]
+	(No symbol) [0x0x7ff69cba065c]
+	(No symbol) [0x0x7ff69cb78243]
+	(No symbol) [0x0x7ff69cb41431]
+	(No symbol) [0x0x7ff69cb421c3]
+	GetHandleVerifier [0x0x7ff69d01d2cd+3051437]
+	GetHandleVerifier [0x0x7ff69d017923+3028483]
+	GetHandleVerifier [0x0x7ff69d0358bd+3151261]
+	GetHandleVerifier [0x0x7ff69cd6185e+185662]
+	GetHandleVerifier [0x0x7ff69cd6971f+218111]
+	GetHandleVerifier [0x0x7ff69cd4fb14+112628]
+	GetHandleVerifier [0x0x7ff69cd4fcc9+113065]
+	GetHandleVerifier [0x0x7ff69cd36c98+10616]
+	BaseThreadInitThunk [0x0x7ff995a87374+20]
+	RtlUserThreadStart [0x0x7ff9979fcc91+33]
+
+2025-07-08 22:11:25,005 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-08 22:11:30,918 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-08 22:12:01,816 :INFO : verify_save_tooltip_message : An error occurred while verifying save tooltip message: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff69cd46f95+76917]
+	GetHandleVerifier [0x0x7ff69cd46ff0+77008]
+	(No symbol) [0x0x7ff69caf9dea]
+	(No symbol) [0x0x7ff69cb50256]
+	(No symbol) [0x0x7ff69cb5050c]
+	(No symbol) [0x0x7ff69cba3887]
+	(No symbol) [0x0x7ff69cb784af]
+	(No symbol) [0x0x7ff69cba065c]
+	(No symbol) [0x0x7ff69cb78243]
+	(No symbol) [0x0x7ff69cb41431]
+	(No symbol) [0x0x7ff69cb421c3]
+	GetHandleVerifier [0x0x7ff69d01d2cd+3051437]
+	GetHandleVerifier [0x0x7ff69d017923+3028483]
+	GetHandleVerifier [0x0x7ff69d0358bd+3151261]
+	GetHandleVerifier [0x0x7ff69cd6185e+185662]
+	GetHandleVerifier [0x0x7ff69cd6971f+218111]
+	GetHandleVerifier [0x0x7ff69cd4fb14+112628]
+	GetHandleVerifier [0x0x7ff69cd4fcc9+113065]
+	GetHandleVerifier [0x0x7ff69cd36c98+10616]
+	BaseThreadInitThunk [0x0x7ff995a87374+20]
+	RtlUserThreadStart [0x0x7ff9979fcc91+33]
+
+2025-07-08 22:15:28,495 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-08 22:15:33,398 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-08 22:15:43,304 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-08 22:15:43,304 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-08 22:15:49,813 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-08 22:15:49,813 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-08 22:16:20,415 :INFO : verify_save_tooltip_message : An error occurred while verifying save tooltip message: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff69cd46f95+76917]
+	GetHandleVerifier [0x0x7ff69cd46ff0+77008]
+	(No symbol) [0x0x7ff69caf9dea]
+	(No symbol) [0x0x7ff69cb50256]
+	(No symbol) [0x0x7ff69cb5050c]
+	(No symbol) [0x0x7ff69cba3887]
+	(No symbol) [0x0x7ff69cb784af]
+	(No symbol) [0x0x7ff69cba065c]
+	(No symbol) [0x0x7ff69cb78243]
+	(No symbol) [0x0x7ff69cb41431]
+	(No symbol) [0x0x7ff69cb421c3]
+	GetHandleVerifier [0x0x7ff69d01d2cd+3051437]
+	GetHandleVerifier [0x0x7ff69d017923+3028483]
+	GetHandleVerifier [0x0x7ff69d0358bd+3151261]
+	GetHandleVerifier [0x0x7ff69cd6185e+185662]
+	GetHandleVerifier [0x0x7ff69cd6971f+218111]
+	GetHandleVerifier [0x0x7ff69cd4fb14+112628]
+	GetHandleVerifier [0x0x7ff69cd4fcc9+113065]
+	GetHandleVerifier [0x0x7ff69cd36c98+10616]
+	BaseThreadInitThunk [0x0x7ff995a87374+20]
+	RtlUserThreadStart [0x0x7ff9979fcc91+33]
+
