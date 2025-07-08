@@ -23,6 +23,10 @@ def setup(request):
     options = webdriver.ChromeOptions()
     options.add_experimental_option("prefs", {"profile.password_manager_leak_detection": False})
     options.add_argument("--headless")
+    options.add_argument("--disable-notifications")
+    options.add_argument("--incognito")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")  # Disable GPU for headless mode
     driver = webdriver.Chrome(options)
     driver.maximize_window()
     driver.get(web_url.get("url"))
