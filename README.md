@@ -1,4 +1,4 @@
-The `FunctionalTestAutomation` is a Python-based test automation framework designed to perform functional testing of web applications. 
+The `FunctionalTestAutomation` is a Python-based test automation framework designed to perform functional testing of OrangeHRM demo application. 
 It uses Selenium for browser automation and Pytest for test execution and reporting. Below are the key components and features of the project:
 
 ### Key Features:
