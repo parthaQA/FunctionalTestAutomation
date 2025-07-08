@@ -22,6 +22,7 @@ def setup(request):
     global driver
     options = webdriver.ChromeOptions()
     options.add_experimental_option("prefs", {"profile.password_manager_leak_detection": False})
+    options.add_argument("--headless")
     driver = webdriver.Chrome(options)
     driver.maximize_window()
     driver.get(web_url.get("url"))
