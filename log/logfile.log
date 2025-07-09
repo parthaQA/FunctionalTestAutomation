@@ -1,168 +1,111 @@
-2025-07-08 15:12:29,857 :INFO : setup : Login successful, navigating to recruitment page.
-2025-07-08 15:12:35,101 :INFO : test_add_new_candidate : New candidate added successfully.
-2025-07-08 15:12:45,472 :INFO : setup : Login successful, navigating to recruitment page.
-2025-07-08 15:12:45,472 :INFO : setup : Login successful, navigating to recruitment page.
-2025-07-08 15:12:52,143 :INFO : test_add_new_candidate : New candidate added successfully.
-2025-07-08 15:12:52,143 :INFO : test_add_new_candidate : New candidate added successfully.
-2025-07-08 15:13:23,570 :INFO : verify_save_tooltip_message : An error occurred while verifying save tooltip message: Message: 
+2025-07-09 14:12:26,417 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-09 14:12:36,337 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-09 14:12:38,993 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_141215.mp4
+2025-07-09 14:12:38,993 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_141215.mp4
+2025-07-09 14:12:48,208 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-09 14:12:48,208 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-09 14:12:48,208 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-09 14:12:58,395 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-09 14:12:58,395 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-09 14:13:31,045 :INFO : verify_save_tooltip_message : An error occurred while verifying save tooltip message: Message: 
 Stacktrace:
-	GetHandleVerifier [0x0x7ff69cd46f95+76917]
-	GetHandleVerifier [0x0x7ff69cd46ff0+77008]
-	(No symbol) [0x0x7ff69caf9dea]
-	(No symbol) [0x0x7ff69cb50256]
-	(No symbol) [0x0x7ff69cb5050c]
-	(No symbol) [0x0x7ff69cba3887]
-	(No symbol) [0x0x7ff69cb784af]
-	(No symbol) [0x0x7ff69cba065c]
-	(No symbol) [0x0x7ff69cb78243]
-	(No symbol) [0x0x7ff69cb41431]
-	(No symbol) [0x0x7ff69cb421c3]
-	GetHandleVerifier [0x0x7ff69d01d2cd+3051437]
-	GetHandleVerifier [0x0x7ff69d017923+3028483]
-	GetHandleVerifier [0x0x7ff69d0358bd+3151261]
-	GetHandleVerifier [0x0x7ff69cd6185e+185662]
-	GetHandleVerifier [0x0x7ff69cd6971f+218111]
-	GetHandleVerifier [0x0x7ff69cd4fb14+112628]
-	GetHandleVerifier [0x0x7ff69cd4fcc9+113065]
-	GetHandleVerifier [0x0x7ff69cd36c98+10616]
+	GetHandleVerifier [0x0x7ff6d0ce6f75+76917]
+	GetHandleVerifier [0x0x7ff6d0ce6fd0+77008]
+	(No symbol) [0x0x7ff6d0a99dea]
+	(No symbol) [0x0x7ff6d0af0256]
+	(No symbol) [0x0x7ff6d0af050c]
+	(No symbol) [0x0x7ff6d0b43887]
+	(No symbol) [0x0x7ff6d0b184af]
+	(No symbol) [0x0x7ff6d0b4065c]
+	(No symbol) [0x0x7ff6d0b18243]
+	(No symbol) [0x0x7ff6d0ae1431]
+	(No symbol) [0x0x7ff6d0ae21c3]
+	GetHandleVerifier [0x0x7ff6d0fbd2ad+3051437]
+	GetHandleVerifier [0x0x7ff6d0fb7903+3028483]
+	GetHandleVerifier [0x0x7ff6d0fd589d+3151261]
+	GetHandleVerifier [0x0x7ff6d0d0183e+185662]
+	GetHandleVerifier [0x0x7ff6d0d096ff+218111]
+	GetHandleVerifier [0x0x7ff6d0cefaf4+112628]
+	GetHandleVerifier [0x0x7ff6d0cefca9+113065]
+	GetHandleVerifier [0x0x7ff6d0cd6c78+10616]
 	BaseThreadInitThunk [0x0x7ff995a87374+20]
 	RtlUserThreadStart [0x0x7ff9979fcc91+33]
 
-2025-07-08 15:21:09,737 :INFO : setup : Login successful, navigating to recruitment page.
-2025-07-08 15:21:14,878 :INFO : test_add_new_candidate : New candidate added successfully.
-2025-07-08 15:21:24,786 :INFO : setup : Login successful, navigating to recruitment page.
-2025-07-08 15:21:24,786 :INFO : setup : Login successful, navigating to recruitment page.
-2025-07-08 15:21:31,754 :INFO : test_add_new_candidate : New candidate added successfully.
-2025-07-08 15:21:31,754 :INFO : test_add_new_candidate : New candidate added successfully.
-2025-07-08 15:22:02,993 :INFO : verify_save_tooltip_message : An error occurred while verifying save tooltip message: Message: 
+2025-07-09 14:13:33,827 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_141238.mp4
+2025-07-09 14:13:33,827 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_141238.mp4
+2025-07-09 14:13:33,827 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_141238.mp4
+2025-07-09 14:13:33,827 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_141238.mp4
+2025-07-09 14:20:22,745 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-09 14:20:29,819 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-09 14:20:35,427 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_142009.mp4
+2025-07-09 14:20:35,427 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_142009.mp4
+2025-07-09 14:20:45,763 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-09 14:20:45,763 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-09 14:20:45,763 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-09 14:20:52,965 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-09 14:20:52,965 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-09 14:21:24,223 :INFO : verify_save_tooltip_message : An error occurred while verifying save tooltip message: Message: 
 Stacktrace:
-	GetHandleVerifier [0x0x7ff69cd46f95+76917]
-	GetHandleVerifier [0x0x7ff69cd46ff0+77008]
-	(No symbol) [0x0x7ff69caf9dea]
-	(No symbol) [0x0x7ff69cb50256]
-	(No symbol) [0x0x7ff69cb5050c]
-	(No symbol) [0x0x7ff69cba3887]
-	(No symbol) [0x0x7ff69cb784af]
-	(No symbol) [0x0x7ff69cba065c]
-	(No symbol) [0x0x7ff69cb78243]
-	(No symbol) [0x0x7ff69cb41431]
-	(No symbol) [0x0x7ff69cb421c3]
-	GetHandleVerifier [0x0x7ff69d01d2cd+3051437]
-	GetHandleVerifier [0x0x7ff69d017923+3028483]
-	GetHandleVerifier [0x0x7ff69d0358bd+3151261]
-	GetHandleVerifier [0x0x7ff69cd6185e+185662]
-	GetHandleVerifier [0x0x7ff69cd6971f+218111]
-	GetHandleVerifier [0x0x7ff69cd4fb14+112628]
-	GetHandleVerifier [0x0x7ff69cd4fcc9+113065]
-	GetHandleVerifier [0x0x7ff69cd36c98+10616]
+	GetHandleVerifier [0x0x7ff6d0ce6f75+76917]
+	GetHandleVerifier [0x0x7ff6d0ce6fd0+77008]
+	(No symbol) [0x0x7ff6d0a99dea]
+	(No symbol) [0x0x7ff6d0af0256]
+	(No symbol) [0x0x7ff6d0af050c]
+	(No symbol) [0x0x7ff6d0b43887]
+	(No symbol) [0x0x7ff6d0b184af]
+	(No symbol) [0x0x7ff6d0b4065c]
+	(No symbol) [0x0x7ff6d0b18243]
+	(No symbol) [0x0x7ff6d0ae1431]
+	(No symbol) [0x0x7ff6d0ae21c3]
+	GetHandleVerifier [0x0x7ff6d0fbd2ad+3051437]
+	GetHandleVerifier [0x0x7ff6d0fb7903+3028483]
+	GetHandleVerifier [0x0x7ff6d0fd589d+3151261]
+	GetHandleVerifier [0x0x7ff6d0d0183e+185662]
+	GetHandleVerifier [0x0x7ff6d0d096ff+218111]
+	GetHandleVerifier [0x0x7ff6d0cefaf4+112628]
+	GetHandleVerifier [0x0x7ff6d0cefca9+113065]
+	GetHandleVerifier [0x0x7ff6d0cd6c78+10616]
 	BaseThreadInitThunk [0x0x7ff995a87374+20]
 	RtlUserThreadStart [0x0x7ff9979fcc91+33]
 
-2025-07-08 15:25:08,516 :INFO : setup : Login successful, navigating to recruitment page.
-2025-07-08 15:25:15,380 :INFO : test_add_new_candidate : New candidate added successfully.
-2025-07-08 15:25:46,210 :INFO : verify_save_tooltip_message : An error occurred while verifying save tooltip message: Message: 
+2025-07-09 14:21:33,313 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_142035.mp4
+2025-07-09 14:21:33,313 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_142035.mp4
+2025-07-09 14:21:33,313 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_142035.mp4
+2025-07-09 14:21:33,313 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_142035.mp4
+2025-07-09 14:22:39,322 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-09 14:22:44,592 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-09 14:22:49,593 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_142228.mp4
+2025-07-09 14:22:49,593 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_142228.mp4
+2025-07-09 14:23:00,189 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-09 14:23:00,189 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-09 14:23:00,189 :INFO : setup : Login successful, navigating to recruitment page.
+2025-07-09 14:23:07,815 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-09 14:23:07,815 :INFO : test_add_new_candidate : New candidate added successfully.
+2025-07-09 14:23:39,127 :INFO : verify_save_tooltip_message : An error occurred while verifying save tooltip message: Message: 
 Stacktrace:
-	GetHandleVerifier [0x0x7ff69cd46f95+76917]
-	GetHandleVerifier [0x0x7ff69cd46ff0+77008]
-	(No symbol) [0x0x7ff69caf9dea]
-	(No symbol) [0x0x7ff69cb50256]
-	(No symbol) [0x0x7ff69cb5050c]
-	(No symbol) [0x0x7ff69cba3887]
-	(No symbol) [0x0x7ff69cb784af]
-	(No symbol) [0x0x7ff69cba065c]
-	(No symbol) [0x0x7ff69cb78243]
-	(No symbol) [0x0x7ff69cb41431]
-	(No symbol) [0x0x7ff69cb421c3]
-	GetHandleVerifier [0x0x7ff69d01d2cd+3051437]
-	GetHandleVerifier [0x0x7ff69d017923+3028483]
-	GetHandleVerifier [0x0x7ff69d0358bd+3151261]
-	GetHandleVerifier [0x0x7ff69cd6185e+185662]
-	GetHandleVerifier [0x0x7ff69cd6971f+218111]
-	GetHandleVerifier [0x0x7ff69cd4fb14+112628]
-	GetHandleVerifier [0x0x7ff69cd4fcc9+113065]
-	GetHandleVerifier [0x0x7ff69cd36c98+10616]
+	GetHandleVerifier [0x0x7ff6d0ce6f75+76917]
+	GetHandleVerifier [0x0x7ff6d0ce6fd0+77008]
+	(No symbol) [0x0x7ff6d0a99dea]
+	(No symbol) [0x0x7ff6d0af0256]
+	(No symbol) [0x0x7ff6d0af050c]
+	(No symbol) [0x0x7ff6d0b43887]
+	(No symbol) [0x0x7ff6d0b184af]
+	(No symbol) [0x0x7ff6d0b4065c]
+	(No symbol) [0x0x7ff6d0b18243]
+	(No symbol) [0x0x7ff6d0ae1431]
+	(No symbol) [0x0x7ff6d0ae21c3]
+	GetHandleVerifier [0x0x7ff6d0fbd2ad+3051437]
+	GetHandleVerifier [0x0x7ff6d0fb7903+3028483]
+	GetHandleVerifier [0x0x7ff6d0fd589d+3151261]
+	GetHandleVerifier [0x0x7ff6d0d0183e+185662]
+	GetHandleVerifier [0x0x7ff6d0d096ff+218111]
+	GetHandleVerifier [0x0x7ff6d0cefaf4+112628]
+	GetHandleVerifier [0x0x7ff6d0cefca9+113065]
+	GetHandleVerifier [0x0x7ff6d0cd6c78+10616]
 	BaseThreadInitThunk [0x0x7ff995a87374+20]
 	RtlUserThreadStart [0x0x7ff9979fcc91+33]
 
-2025-07-08 15:28:20,893 :INFO : setup : Login successful, navigating to recruitment page.
-2025-07-08 15:28:27,587 :INFO : test_add_new_candidate : New candidate added successfully.
-2025-07-08 15:28:58,080 :INFO : verify_save_tooltip_message : An error occurred while verifying save tooltip message: Message: 
-Stacktrace:
-	GetHandleVerifier [0x0x7ff69cd46f95+76917]
-	GetHandleVerifier [0x0x7ff69cd46ff0+77008]
-	(No symbol) [0x0x7ff69caf9dea]
-	(No symbol) [0x0x7ff69cb50256]
-	(No symbol) [0x0x7ff69cb5050c]
-	(No symbol) [0x0x7ff69cba3887]
-	(No symbol) [0x0x7ff69cb784af]
-	(No symbol) [0x0x7ff69cba065c]
-	(No symbol) [0x0x7ff69cb78243]
-	(No symbol) [0x0x7ff69cb41431]
-	(No symbol) [0x0x7ff69cb421c3]
-	GetHandleVerifier [0x0x7ff69d01d2cd+3051437]
-	GetHandleVerifier [0x0x7ff69d017923+3028483]
-	GetHandleVerifier [0x0x7ff69d0358bd+3151261]
-	GetHandleVerifier [0x0x7ff69cd6185e+185662]
-	GetHandleVerifier [0x0x7ff69cd6971f+218111]
-	GetHandleVerifier [0x0x7ff69cd4fb14+112628]
-	GetHandleVerifier [0x0x7ff69cd4fcc9+113065]
-	GetHandleVerifier [0x0x7ff69cd36c98+10616]
-	BaseThreadInitThunk [0x0x7ff995a87374+20]
-	RtlUserThreadStart [0x0x7ff9979fcc91+33]
-
-2025-07-08 22:11:25,005 :INFO : setup : Login successful, navigating to recruitment page.
-2025-07-08 22:11:30,918 :INFO : test_add_new_candidate : New candidate added successfully.
-2025-07-08 22:12:01,816 :INFO : verify_save_tooltip_message : An error occurred while verifying save tooltip message: Message: 
-Stacktrace:
-	GetHandleVerifier [0x0x7ff69cd46f95+76917]
-	GetHandleVerifier [0x0x7ff69cd46ff0+77008]
-	(No symbol) [0x0x7ff69caf9dea]
-	(No symbol) [0x0x7ff69cb50256]
-	(No symbol) [0x0x7ff69cb5050c]
-	(No symbol) [0x0x7ff69cba3887]
-	(No symbol) [0x0x7ff69cb784af]
-	(No symbol) [0x0x7ff69cba065c]
-	(No symbol) [0x0x7ff69cb78243]
-	(No symbol) [0x0x7ff69cb41431]
-	(No symbol) [0x0x7ff69cb421c3]
-	GetHandleVerifier [0x0x7ff69d01d2cd+3051437]
-	GetHandleVerifier [0x0x7ff69d017923+3028483]
-	GetHandleVerifier [0x0x7ff69d0358bd+3151261]
-	GetHandleVerifier [0x0x7ff69cd6185e+185662]
-	GetHandleVerifier [0x0x7ff69cd6971f+218111]
-	GetHandleVerifier [0x0x7ff69cd4fb14+112628]
-	GetHandleVerifier [0x0x7ff69cd4fcc9+113065]
-	GetHandleVerifier [0x0x7ff69cd36c98+10616]
-	BaseThreadInitThunk [0x0x7ff995a87374+20]
-	RtlUserThreadStart [0x0x7ff9979fcc91+33]
-
-2025-07-08 22:15:28,495 :INFO : setup : Login successful, navigating to recruitment page.
-2025-07-08 22:15:33,398 :INFO : test_add_new_candidate : New candidate added successfully.
-2025-07-08 22:15:43,304 :INFO : setup : Login successful, navigating to recruitment page.
-2025-07-08 22:15:43,304 :INFO : setup : Login successful, navigating to recruitment page.
-2025-07-08 22:15:49,813 :INFO : test_add_new_candidate : New candidate added successfully.
-2025-07-08 22:15:49,813 :INFO : test_add_new_candidate : New candidate added successfully.
-2025-07-08 22:16:20,415 :INFO : verify_save_tooltip_message : An error occurred while verifying save tooltip message: Message: 
-Stacktrace:
-	GetHandleVerifier [0x0x7ff69cd46f95+76917]
-	GetHandleVerifier [0x0x7ff69cd46ff0+77008]
-	(No symbol) [0x0x7ff69caf9dea]
-	(No symbol) [0x0x7ff69cb50256]
-	(No symbol) [0x0x7ff69cb5050c]
-	(No symbol) [0x0x7ff69cba3887]
-	(No symbol) [0x0x7ff69cb784af]
-	(No symbol) [0x0x7ff69cba065c]
-	(No symbol) [0x0x7ff69cb78243]
-	(No symbol) [0x0x7ff69cb41431]
-	(No symbol) [0x0x7ff69cb421c3]
-	GetHandleVerifier [0x0x7ff69d01d2cd+3051437]
-	GetHandleVerifier [0x0x7ff69d017923+3028483]
-	GetHandleVerifier [0x0x7ff69d0358bd+3151261]
-	GetHandleVerifier [0x0x7ff69cd6185e+185662]
-	GetHandleVerifier [0x0x7ff69cd6971f+218111]
-	GetHandleVerifier [0x0x7ff69cd4fb14+112628]
-	GetHandleVerifier [0x0x7ff69cd4fcc9+113065]
-	GetHandleVerifier [0x0x7ff69cd36c98+10616]
-	BaseThreadInitThunk [0x0x7ff995a87374+20]
-	RtlUserThreadStart [0x0x7ff9979fcc91+33]
-
+2025-07-09 14:23:47,924 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_142249.mp4
+2025-07-09 14:23:47,924 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_142249.mp4
+2025-07-09 14:23:47,924 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_142249.mp4
+2025-07-09 14:23:47,924 :INFO : setup : Recording saved at: C:\Users\WELCOME\PycharmProjects\FunctionalTestAutomation\test\..\recording\recording_20250709_142249.mp4

@@ -6,6 +6,8 @@ from faker.proxy import Faker
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.remote.webdriver import WebDriver
+import json
+import os
 
 
 
@@ -70,3 +72,12 @@ class Utils:
         logger.setLevel(logging.INFO)
         logger.addHandler(fileHandler)
         return logger
+
+
+
+    # @staticmethod
+    # def get_admin_credentials():
+    #
+    #
+    #
+    #     return data['admin']['username'], data['admin']['password']
